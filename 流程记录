@@ -1,4 +1,5 @@
 1. 拉取项目地址 https://github.com/lzdFeiFei/vueuse-cn
 2. pnpm install node版本要满足vite需求 14.18 || 16
 3. 翻译 md 文件
-4. 执行 nr docs:build
+4. 执行 nr docs:build 确保在根目录下
+5. 将翻译了的内容 push 到远端
